@@ -1,0 +1,13 @@
+﻿{
+  /* TODO: Put your chatbot identifier and accessKey bellow. */
+  "identifier": "dionibcalculadora",
+  "accessKey": "dG5zTkd5YTZGaGpkN21IeXVwNnc=",
+  "messageReceivers": [
+    {
+      "mediaType": "text/plain",
+      "type": "Calculadora"
+    }
+  ],
+  "startupType": "Startup",
+  "schemaVersion": 2
+}
